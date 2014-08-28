@@ -1,3 +1,3 @@
-equire "arch/engine"
+require "arch/engine"
 module Arch
 end
