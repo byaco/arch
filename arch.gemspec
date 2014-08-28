@@ -19,4 +19,6 @@ Gem::Specification.new do |s|
   s.add_dependency "rails", "~> 4.0.4"
 
   s.add_development_dependency "sqlite3"
+  s.add_development_dependency 'minitest' # <------- here
+  s.add_development_dependency 'capybara' # <------- and here
 end
